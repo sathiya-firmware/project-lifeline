@@ -1,7 +1,7 @@
 ---
 title: "Project Lifeline: Saving Open Source from Maintainer Burnout"
 published: false
-tags: devchallenge, githubchallenge, cli, githubcopilot, opensource, socialgood
+tags: devchallenge, githubchallenge, cli, githubcopilot
 ---
 
 *This is a submission for the [GitHub Copilot CLI Challenge](https://dev.to/challenges/github-2026-01-21)*
